@@ -1,0 +1,3 @@
+[submodule "simple-task-list-laravel"]
+	path = simple-task-list-laravel
+	url = https://github.com/C-elare/simple-task-list-laravel.git
